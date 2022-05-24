@@ -1,0 +1,17 @@
+{
+  "name": "lewd-coin",
+  "version": "1.0.0",
+  "description": "blockchain web3 cryptocurrency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [
+    "blockchain",
+    "crypto",
+    "web3"
+  ],
+  "author": "@riefer02",
+  "license": "ISC"
+}
